@@ -8,11 +8,11 @@ None.
 
 ##### Slides Covered
 
-[Intro to JavaScript](https://www.canva.com/design/DAFpLgVyDB0/320DKN-frgCEf1f7RAm7cg/edit), slides 61-xx.
+[Intro to JavaScript](https://www.canva.com/design/DAFpLgVyDB0/320DKN-frgCEf1f7RAm7cg/edit), slides 62-82.
 
 ##### Assignments
 
-[JavaScript - Working With Strings](https://github.com/AnnieCannons/js-working-with-strings), due at the end of class on Monday.
+[JavaScript - Working With Numbers](https://github.com/AnnieCannons/js-working-with-numbers), due at the end of class on 2023-08-09.
 
 ##### Resources
 
