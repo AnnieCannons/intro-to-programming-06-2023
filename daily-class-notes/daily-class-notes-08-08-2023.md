@@ -8,7 +8,7 @@ None.
 
 ##### Slides Covered
 
-[Intro to JavaScript](https://www.canva.com/design/DAFpLgVyDB0/320DKN-frgCEf1f7RAm7cg/edit), slides 62-82.
+[JavaScript](https://www.canva.com/design/DAFpLgVyDB0/320DKN-frgCEf1f7RAm7cg/edit), slides 62-82.
 
 ##### Assignments
 
