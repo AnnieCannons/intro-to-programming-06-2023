@@ -1,7 +1,4 @@
 # Intro To Programming - Curriculum
 
-A curriculum repo that can be forked to create a cohort-specific repo.
+The curriculum repo for the 2023-06 cohort of the Intro to Programming course.
 
-We will also use this to manage tasks within the curriculum.
-
-Currently being maintained by Catie (@cm-hart) and Colin (@abbreviatedman)
