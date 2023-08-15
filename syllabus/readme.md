@@ -63,9 +63,8 @@ Students will be able to:
 8. Explain what parameters and arguments are and how they are used in JavaScript.
 9. Explain what a return statement is and how it is used in JavaScript.
 10. Explain what conditional logic is and how it is used in JavaScript.
-11. Explain what loops are and how it is used in JavaScript.
-12. Explain what a variable scope is and how it is used in JavaScript.
-13. Write JavaScript variables, values, arrays, objects, conditional statements, loops, and functions.
+11. Explain what a variable scope is and how it is used in JavaScript.
+12. Write JavaScript variables, values, arrays, objects, conditional statements, loops, and functions.
 
 ##### JavaScript Browser App Development
 
