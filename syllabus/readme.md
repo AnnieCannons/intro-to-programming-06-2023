@@ -47,6 +47,10 @@ Students will be able to:
 8. Lay out a web page using CSS Flexbox.
 9. Lay out a web page using CSS Grid.
 
+Resources for self-guided learning:
+
+- [The "CSS Grid & Flexbox" course on Frontend Masters](https://frontendmasters.com/courses/css-grid-flexbox-v2/) is an in-depth and project-based approach to learning the layout tools.
+
 #### JavaScript
 
 ##### JavaScript Basics
@@ -67,6 +71,12 @@ Students will be able to:
 12. Explain what a variable scope is and how it is used in JavaScript.
 13. Write JavaScript variables, values, arrays, objects, conditional statements, loops, and functions.
 
+Resources for self-guided learning:
+
+- [The "Compelte "]
+- [The "Getting Started with JavaScript" course on Frontend Masters](https://frontendmasters.com/courses/getting-started-javascript-v2/) is a good look at the theory behind each of the basic fundamental concepts of JavaScript.
+- [The "JavaScript: From First Steps to Professional" course on Frontend Masters](https://frontendmasters.com/courses/javascript-first-steps/) covers this material as well, but from a purely practical perspective.
+
 ##### JavaScript Browser App Development
 
 Students will be able to:
@@ -78,3 +88,8 @@ Students will be able to:
 5. Write JavaScript to add event listeners to elements in the DOM.
 6. Write JavaScript to add, remove, and modify elements in the DOM.
 7. Write JavaScript to make HTTP requests to an API and handle the response.
+
+Resources for self-guided learning:
+
+- [The "Build Dynamic Websites" course on Udemy](https://anniecannons.udemy.com/course/build-interactive-websites-1/learn/) will cover everything from this list except accessing APIs in depth.
+- [The "JavaScript: From First Steps to Professional" course on Frontend Masters](https://frontendmasters.com/courses/javascript-first-steps/) covers the DOM _and_ accessing APIs from a practical, project-based approach.
