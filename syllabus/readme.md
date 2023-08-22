@@ -12,6 +12,10 @@ Students will be able to:
 4. Get some practice using the terminal to create, move, and delete files and folders.
 5. Know how to look up file management commands.
 
+Resources for self-guided learning:
+
+- [The "Git and GitHub, the Practical Guide" course on Udemy](https://anniecannons.udemy.com/course/git-github-practical-guide/) will give you all you need to understand the terminal, Git, and GitHub.
+
 #### Git
 
 Students will be able to:
@@ -21,6 +25,10 @@ Students will be able to:
 3. Explain the add, commit, and push process.
 4. Follow the basic Git workflow to make changes to a repository and push them to GitHub.
 5. Know how to look up Git commands.
+
+Resources for self-guided learning:
+
+- [The "Git and GitHub, the Practical Guide" course on Udemy](https://anniecannons.udemy.com/course/git-github-practical-guide/) will give you all you need to understand the terminal, Git, and GitHub.
 
 #### HTML
 
@@ -32,6 +40,10 @@ Students will be able to:
 4. Write HTML tags and attributes.
 5. Know how to look up HTML tags and attributes.
 6. Use the W3C validator to validate HTML and fix errors.
+
+Resources for self-guided learning:
+
+- [The "Complete Guide to HTML" course on Udemy](https://anniecannons.udemy.com/course/the-complete-guide-to-html/) will give you a solid understanding of the theory and practice of HTML.
 
 #### CSS
 
@@ -49,6 +61,7 @@ Students will be able to:
 
 Resources for self-guided learning:
 
+- [The "CSS - The Complete Guide 2023" course on Udemy](https://anniecannons.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) is not only a complete guide (including Flexbox and Grid), but hits every concept thoroughly, slowly, and in depth.
 - [The "CSS Grid & Flexbox" course on Frontend Masters](https://frontendmasters.com/courses/css-grid-flexbox-v2/) is an in-depth and project-based approach to learning the layout tools.
 
 #### JavaScript
@@ -73,7 +86,7 @@ Students will be able to:
 
 Resources for self-guided learning:
 
-- [The "Compelte "]
+- [The "Complete JavaScript Course 2023: From Zero to Expert!" on Udemy](https://anniecannons.udemy.com/course/the-complete-javascript-course/) is probably the best single resource for detailed, beginner-centric learning of both JavaScript and Browser App Development (the section below).
 - [The "Getting Started with JavaScript" course on Frontend Masters](https://frontendmasters.com/courses/getting-started-javascript-v2/) is a good look at the theory behind each of the basic fundamental concepts of JavaScript.
 - [The "JavaScript: From First Steps to Professional" course on Frontend Masters](https://frontendmasters.com/courses/javascript-first-steps/) covers this material as well, but from a purely practical perspective.
 
@@ -91,5 +104,6 @@ Students will be able to:
 
 Resources for self-guided learning:
 
+- [The "Complete JavaScript Course 2023: From Zero to Expert!" on Udemy](https://anniecannons.udemy.com/course/the-complete-javascript-course/) is probably the best single resource for detailed, beginner-centric learning of both basic JavaScript (the section above) and Browser App Development, including HTTP calls to APIs.
 - [The "Build Dynamic Websites" course on Udemy](https://anniecannons.udemy.com/course/build-interactive-websites-1/learn/) will cover everything from this list except accessing APIs in depth.
 - [The "JavaScript: From First Steps to Professional" course on Frontend Masters](https://frontendmasters.com/courses/javascript-first-steps/) covers the DOM _and_ accessing APIs from a practical, project-based approach.
