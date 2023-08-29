@@ -40,13 +40,12 @@
     - Gain practical experience by solving coding problems and implementing functions in projects.
     - Develop the ability to analyze and understand code snippets involving functions.
 
-- Slides link: Coming Soon!
+- Slides link: [Click Here](https://www.canva.com/design/DAFpNVT3WCY/KhtxHlg7iJOkRN-0ReKM6g/edit)
 - Activities
-    - Unit 1: Writing Functions
-    - Unit 2: Using Parameters and Arguments
-    - Unit 3: Return and Function Expressions
-    - Unit 4: Scope Exercises
-    - Unit 5: More with functions
+    - Unit 1: [Writing Functions](https://github.com/AnnieCannons/js-writing-functions)
+    - Unit 2: [Using Parameters and Arguments](https://github.com/AnnieCannons/js-functions-parameters-arguments)
+    - Unit 3: [Return and Function Expressions](https://github.com/AnnieCannons/js-functions-returns-expressions)
+    - Unit 4: [Scope Exercises](https://github.com/AnnieCannons/js-function-scope)
 
 
 ## JS Conditionals and Loops, Lecture and Lab
@@ -62,13 +61,14 @@
     - Learn to loop over object properties using for...in loop and iterate over array-like objects.
     - Gain practical experience through solving coding problems involving conditional statements and loops.
 
-- Slides link: Coming Soon!
+- Slides link: [Click Here](https://www.canva.com/design/DAFpqnLM9ik/ybSRr-BLk9AxsH0FXG_ebQ/edit)
 - Activities
-    - Unit 1: Writing Conditions
-    - Unit 2: Nested conditions and logical operators
-    - Unit 3: Writing loops
-    - Unit 4: Working with arrays and objects in loops
-    - Unit 5: Loops and functions
+    - Unit 1: [Writing Conditions](https://github.com/AnnieCannons/working-with-conditions)
+    - Unit 2: [Nested conditions and logical operators](https://github.com/AnnieCannons/js-nested-conditions-and-operators)
+    - Unit 3: [Writing while loops](https://github.com/AnnieCannons/working-with-while-loops)
+    - Unit 4: [Writing for loops](https://github.com/AnnieCannons/working-with-loops)
+    - Unit 5: [Working with arrays and objects in loops](https://github.com/AnnieCannons/loops-arrays-objects)
+    - Unit 6: [Loops and functions](https://github.com/AnnieCannons/loops-functions)
 
 ## DOM, Templates, and Data/Forms, Lecture and Lab
 ### The Why: Developers need a way to use JavaScript to access static and dynamic content on a web page or in a web app. The DOM provides a standardized way to interact with HTML documents and dynamically manipulate web content. JavaScript allows you to listen for events, such as button clicks or form submissions, and perform actions based on those events, dynamically updating the content or behavior of the web page.
