@@ -83,30 +83,28 @@
     - Learn to work with forms, access form elements, and handle form submission.
     - Understand techniques for manipulating CSS classes and inline styles of DOM elements.
     - Develop skills in handling form validation and data validation using JavaScript.
+- Slides link: [Click Here](https://www.canva.com/design/DAFs38yxzKE/pJWoyvbvGSqjEjPDJXazuA/edit)
+- Activities
+    - Unit 1: [Understanding the DOM](https://github.com/AnnieCannons/document-object-model)
+    - Unit 2: [Accessing the DOM](https://github.com/AnnieCannons/accessing-the-dom)
+    - Unit 3: [Modifying the DOM](https://github.com/AnnieCannons/modifying-the-dom)
+    - Unit 4: [Events and Forms: Budget Project](https://github.com/AnnieCannons/budget-project)
+    - Unit 5: [Calculator Project](https://github.com/AnnieCannons/calculator-project)
 
-## JS Algorithms and algorithm interview prep
-### The Why: JS Algorithms help you solve problems in your software applications as well as prepare you for interview questions. 
-- Learning Objectives:
-    - Understand the concept and purpose of conditional statements and loops in programming.
-    - Learn the syntax and usage of if statements to make decisions based on conditions.
-    - Understand the else statement and else-if clause to handle multiple branching conditions.
-    - Familiarize yourself with comparison operators and logical operators for condition evaluation.
-    - Learn the syntax and usage of for loops for repetitive tasks.
-    - Familiarize yourself with looping over arrays using for loops and array iteration methods.
-    - Learn to loop over object properties using for...in loop and iterate over array-like objects.
-    - Gain practical experience through solving coding problems involving conditional statements and loops.
 
 ## Introduction to APIs and Data
 ### The Why: One of the most critical aspects of the internet is sending, receiving, and displaying data. APIs allow for this communication. 
 - Learning Objectives:
-    - Understand the concept and purpose of conditional statements and loops in programming.
-    - Learn the syntax and usage of if statements to make decisions based on conditions.
-    - Understand the else statement and else-if clause to handle multiple branching conditions.
-    - Familiarize yourself with comparison operators and logical operators for condition evaluation.
-    - Learn the syntax and usage of for loops for repetitive tasks.
-    - Familiarize yourself with looping over arrays using for loops and array iteration methods.
-    - Learn to loop over object properties using for...in loop and iterate over array-like objects.
-    - Gain practical experience through solving coding problems involving conditional statements and loops.
+    - Understand the purpose and importance of APIs in web development.
+    - Learn different types of APIs and their use cases.
+    - Learn the fundamentals of making API requests using HTTP methods (GET, POST, PUT, DELETE).
+    - Understand the structure of API requests and responses, including URL endpoints and query parameters.
+    - Gain proficiency in retrieving and handling data from web APIs using JavaScript.
+    - Learn to parse and manipulate JSON data, a common data format used in APIs.
+    - Understand error handling techniques when working with APIs
+    - Understand the basics of asynchronous programming when making API requests.
+    - Gain practical experience by integrating API data into web applications and visualizing data.
+- Slides link: [Click Here](https://www.canva.com/design/DAFuutm8vp4/dXtcUqfWiu1OITSSB1IDkA/edit)
 
 ## JavaScript Projects 
 
